@@ -1,3 +1,10 @@
+## Hi 👋 I'm Büşra
+
+
++ 🌱 I’m currently learning .NET Core, React.js
+
++ 💬 Ask me about C#,SQL
+
 
 
 <!--

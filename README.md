@@ -5,6 +5,44 @@
 
 + 💬 Ask me about C#,SQL
 
+## 🧰 Languages and Tools:
+<p align="left">
+
+
+
+
+<a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noopener noreferrer">  
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" height="40" style="vertical-align:top; margin:4px"> </a>
+
+<a href="https://dotnet.microsoft.com/download" target="_blank" rel="noopener noreferrer">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/480px-.NET_Core_Logo.svg.png" alt=".net core" height="40" style="vertical-align:top; margin:4px"> </a>
+
+<a href="https://tr.reactjs.org/" target="_blank" rel="noopener noreferrer">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React" height="40" style="vertical-align:top; margin:4px"> </a>
+
+ <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">   
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> </a>
+
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">  
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Sql Server" height="40" style="vertical-align:top; margin:4px"> </a>
+
+<a href="https://unity.com/" target="_blank" rel="noopener noreferrer">  
+<img src="https://cdn.worldvectorlogo.com/logos/unity-technologies-logo.svg" alt="Unity" height="40" style="vertical-align:top; margin:4px"> </a>
+
+<a href="https://code.visualstudio.com//" target="_blank" rel="noopener noreferrer">  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS" height="40" style="vertical-align:top; margin:4px"> </a>
+  
+<a href="https://visualstudio.microsoft.com/tr/" target="_blank" rel="noopener noreferrer">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/800px-Visual_Studio_Icon_2019.svg.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> </a>
+  
+ <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">  
+  <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="postman" height="40" style="vertical-align:top; margin:4px"> </a>
+ 
+</p>
 
 
 <!--

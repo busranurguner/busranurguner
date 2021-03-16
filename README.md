@@ -27,6 +27,14 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> </a>
 
 
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">  
+<img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="html" height="40" style="vertical-align:top; margin:4px"> </a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">  
+<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css" height="40" style="vertical-align:top; margin:4px"> </a>
+
+
+
 <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">  
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Sql Server" height="40" style="vertical-align:top; margin:4px"> </a>
 

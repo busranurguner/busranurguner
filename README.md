@@ -5,6 +5,15 @@
 
 + 💬 Ask me about C#,SQL
 
+## ✉️ Find me on:
+
+
+ <a href="https://www.linkedin.com/in/busranurguner/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="https://www.hackerrank.com/busranurguner"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+
+
 ## 🧰 Languages and Tools:
 <p align="left">
 

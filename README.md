@@ -21,7 +21,7 @@
 
 
 <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noopener noreferrer">  
-<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" height="40" style="vertical-align:top; margin:4px"> </a>
+<img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="c#" height="40" style="vertical-align:top; margin:4px"> </a>
 
 <a href="https://dotnet.microsoft.com/download" target="_blank" rel="noopener noreferrer">  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/480px-.NET_Core_Logo.svg.png" alt=".net core" height="40" style="vertical-align:top; margin:4px"> </a>

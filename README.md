@@ -33,9 +33,6 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> </a>
 
 
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">  
-<img src="https://marco-a-moreno.github.io/marcoamoreno.github.io/imgs/html.png" alt="html" height="40" style="vertical-align:top; margin:4px"> </a>
-
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">  
 <img src="https://www.pngitem.com/pimgs/m/11-119330_transparent-curly-brackets-png-transparent-css-icon-png.png" alt="css" height="40" style="vertical-align:top; margin:4px"> </a>
 
